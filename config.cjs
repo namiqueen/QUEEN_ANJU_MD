@@ -1,8 +1,8 @@
 module.exports = {
   "ALIVE_IMG": "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
-  "PREFIX": ".",
+  "PREFIX": ",",
   "AUTO_READ_STATUS": true,
-  "MODE": "public",
+  "MODE": "private",
   "BOT_NUMBER": "94717775628",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
@@ -14,12 +14,12 @@ module.exports = {
   "ANTI_BAD": false,
   "ANTI_BOT": true,
   "ANTI_LINK": true,
-  "ALLWAYS_ONLINE": true,
+  "ALLWAYS_ONLINE": false,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
-  "OWNER_NAME": "MR JANIYA",
+  "OWNER_NAME": "Famous Tabish",
   "NEWS_JID": "1234567890@s.whatsapp.net",
-  "AUTO_TYPING": false,
+  "AUTO_TYPING": true,
   "AUTO_RECORDING": true,
   "AUTO_NEWS": false
 };
